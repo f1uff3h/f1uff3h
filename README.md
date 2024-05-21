@@ -10,22 +10,18 @@
 <!-- Tech stack: -->
 
 
-<!-- <div> -->
-<!-- 📜 DevOps certs: <br/> -->
-<!-- <br/> -->
-<!-- <a href="https://www.credly.com/badges/b23cac12-f3bf-496c-a8b7-27e697c42084/public_url" target="_blank"> -->
-<!--     <img src="./src/hashicorp-certified-vault-associate-002.png" width="120" alt="HashiCorp Certified: Vault Associate (002)"> -->
-<!-- </a> -->
-<!-- <a href="https://www.credly.com/badges/b23cac12-f3bf-496c-a8b7-27e697c42084/public_url" target="_blank"> -->
-<!--     <img src="./src/hashicorp-certified-terraform-associate-003.png" width="120" alt="HashiCorp Certified: Terraform Associate (003)"> -->
-<!-- </a> -->
-<!-- </div> -->
-<!-- <div> -->
-<!-- <a href="https://www.credly.com/badges/86bcc7fa-6fc4-41b4-9728-98eedc48fb5e/public_url" target="_blank"> -->
-<!--     <img src="./src/professional-scrum-product-owner-i-pspo-i.png" alt="Professional Scrum Product Owner™ I (PSPO I)"> -->
-<!-- </a> -->
-<!-- </div> -->
-<!-- <br/> -->
+<div> -->
+📜 Certs I obtained <br/><br/>
+  <a href="https://www.credly.com/badges/b23cac12-f3bf-496c-a8b7-27e697c42084/public_url" target="_blank">
+      <img src="./src/hashicorp-certified-vault-associate-002.png" width="120" alt="HashiCorp Certified: Vault Associate (002)">
+  </a>
+  <a href="https://www.credly.com/badges/b23cac12-f3bf-496c-a8b7-27e697c42084/public_url" target="_blank">
+      <img src="./src/hashicorp-certified-terraform-associate-003.png" width="120" alt="HashiCorp Certified: Terraform Associate (003)">
+  </a>
+  <a href="https://www.credly.com/badges/86bcc7fa-6fc4-41b4-9728-98eedc48fb5e/public_url" target="_blank">
+      <img src="./src/professional-scrum-product-owner-i-pspo-i.png" alt="Professional Scrum Product Owner™ I (PSPO I)">
+  </a>
+</div>
 
 📫 Reach me at: <br/><br/>
   <a href="www.linkedin.com/in/petre-constantinescu-400a0014b" target="_blank">
