@@ -19,6 +19,10 @@
 
 ### 📫 Reach me at:
 <p>
-  <a href="www.linkedin.com/in/petre-constantinescu-400a0014b" target="_blank"><img src="./src/linkedin.png" width="50" hspace="10" alt="LinkedIn"></a>
-  <a href="https://matrix.to/#/@fluffeh:matrix.org" target="_blank"><img src="./src/matrix.png" width="50" height="50" alt="matrix"></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./src/matrix.png">
+    <source media="(prefers-color-scheme: light)" srcset="./src/matrix-white.svg">
+    <img src="./src/matrix-white.svg">
+  </picture>
+  <a href="www.linkedin.com/in/petre-constantinescu-400a0014b" target="_blank"><img src="./src/linkedin.png" alt="LinkedIn" width="50" hspace="10"></a>
 </p>
