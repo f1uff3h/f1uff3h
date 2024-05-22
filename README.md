@@ -6,7 +6,7 @@
 - 🔭 I’m working towards the <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator"> Azure AZ-104</a> & <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/">Azure AZ-307</a> certifications
 
 
-- 🎓 I’m on the road to becoming a rustacean <img src="./src/rust.png" width="50" align="top" alt="Rust logo">
+- 🎓 I’m becoming a rustacean <img src="./src/rust.png" width="50" align="top" alt="Rust logo">
 
 
 <!-- Tech stack: -->
@@ -19,13 +19,13 @@
 
 ### 📫 Reach me at:
 <p>
+  <a href="https://mas.to/@fluffeh"><img src="./src/mastodon.png" width="45"></a>
   <a href="https://matrix.to/#/@fluffeh:matrix.org">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./src/matrix-white.svg">
       <source media="(prefers-color-scheme: light)" srcset="./src/matrix.png">
-      <img src="./src/matrix-white.svg" width="100">
+      <img src="./src/matrix-white.svg" width="100" hspace="10">
     </picture>
   </a>
-  <a href="https://mas.to/@fluffeh"><img src="./src/mastodon.png" width="100" hspace="10"></a>
-  <a href="www.linkedin.com/in/petre-constantinescu-400a0014b" target="_blank"><img src="./src/linkedin.png" alt="LinkedIn" width="50" hspace="10"></a>
+  <a href="www.linkedin.com/in/petre-constantinescu-400a0014b" target="_blank"><img src="./src/linkedin.png" alt="LinkedIn" width="50"></a>
 </p>
