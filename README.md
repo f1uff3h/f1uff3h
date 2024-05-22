@@ -26,5 +26,6 @@
       <img src="./src/matrix-white.svg" width="100">
     </picture>
   </a>
+  <a href="https://mas.to/@fluffeh"><img src="./src/mastodon.png" width="100" hspace="10"></a>
   <a href="www.linkedin.com/in/petre-constantinescu-400a0014b" target="_blank"><img src="./src/linkedin.png" alt="LinkedIn" width="50" hspace="10"></a>
 </p>
