@@ -5,7 +5,7 @@
 - 🔭 I’m working towards the <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator"> Azure AZ-104</a> & <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/">Azure AZ-307</a> certifications
 
 
-- 🎓 I’m becoming a rustacean <img src="./src/rust.png" width="50" align="top" alt="Rust logo">
+- 🎓 I’m very slowly becoming a rustacean <img src="./src/rust.png" width="50" align="top" alt="Rust logo">
 
 
 <!-- Tech stack: -->
@@ -15,6 +15,8 @@
     <a href="https://www.credly.com/badges/b23cac12-f3bf-496c-a8b7-27e697c42084/public_url"><img src="./src/hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Certified: Terraform Associate (003)"></a>
     <a href="https://www.credly.com/badges/86bcc7fa-6fc4-41b4-9728-98eedc48fb5e/public_url"><img src="./src/professional-scrum-product-owner-i-pspo-i.png" alt="Professional Scrum Product Owner™ I (PSPOI)" width="150" hspace="15"></a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=ansible,arch,azure,bash,debian,docker,git,go,grafana,kubernetes,linux,mongodb,mysql,neovim,postgres,powershell,prometheus,raspberrypi,redhat,terraform,vim)](https://skillicons.dev)
 
 ### 📫 Reach me at:
 <p>
