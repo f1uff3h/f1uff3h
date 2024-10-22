@@ -16,7 +16,8 @@
     <a href="https://www.credly.com/badges/86bcc7fa-6fc4-41b4-9728-98eedc48fb5e/public_url"><img src="./src/professional-scrum-product-owner-i-pspo-i.png" alt="Professional Scrum Product Owner™ I (PSPOI)" width="150" hspace="15"></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,arch,azure,bash,debian,docker,git,go,grafana,kubernetes,linux,mongodb,mysql,neovim,postgres,powershell,prometheus,raspberrypi,redhat,terraform,vim)](https://skillicons.dev)
+- Fluent in:
+[![My Skills](https://skillicons.dev/icons?i=ansible,arch,azure,bash,debian,docker,git,go,grafana,kubernetes,linux,md,mongodb,mysql,neovim,postgres,powershell,prometheus,raspberrypi,redhat,regex,terraform,vim,windows)](https://skillicons.dev)
 
 ### 📫 Reach me at:
 <p>
