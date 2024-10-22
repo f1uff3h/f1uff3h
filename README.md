@@ -20,7 +20,7 @@
   
 [![My Skills](https://skillicons.dev/icons?i=ansible,arch,azure,bash,debian,docker,git,go,grafana,kubernetes,linux,md,mongodb,mysql,neovim,postgres,powershell,prometheus,raspberrypi,redhat,regex,terraform,vim,windows)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1uff3h&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1uff3h&layout=compact&theme=synthwave)
 
 ### 📫 Reach me at:
 <p>
