@@ -2,9 +2,6 @@
 
 ### I'm Petre (aka fluffeh) a DevOps engineer, homelabber and overall tech enthusiast
 
-- 🔭 I’m working towards the <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator"> Azure AZ-104</a> & <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/">Azure AZ-307</a> certifications
-
-
 - 🎓 I’m very slowly becoming a rustacean <img src="./src/rust.png" width="50" align="top" alt="Rust logo">
 
 
