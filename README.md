@@ -5,6 +5,10 @@
 - 🎓 I’m very slowly becoming a rustacean <img src="./src/rust.png" width="50" align="top" alt="Rust logo">
 
 
+- Fluent in:
+  
+[![My Skills](https://skillicons.dev/icons?i=ansible,arch,azure,bash,debian,docker,git,go,grafana,kubernetes,linux,md,mongodb,mysql,neovim,postgres,powershell,prometheus,raspberrypi,redhat,regex,terraform,vim,windows)](https://skillicons.dev)
+
 <!-- Tech stack: -->
 - 📜 My certifications:
 <p>
@@ -13,9 +17,6 @@
     <a href="https://www.credly.com/badges/86bcc7fa-6fc4-41b4-9728-98eedc48fb5e/public_url"><img src="./src/professional-scrum-product-owner-i-pspo-i.png" alt="Professional Scrum Product Owner™ I (PSPOI)" width="150" hspace="15"></a>
 </p>
 
-- Fluent in:
-  
-[![My Skills](https://skillicons.dev/icons?i=ansible,arch,azure,bash,debian,docker,git,go,grafana,kubernetes,linux,md,mongodb,mysql,neovim,postgres,powershell,prometheus,raspberrypi,redhat,regex,terraform,vim,windows)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1uff3h&layout=compact&theme=synthwave)
 
