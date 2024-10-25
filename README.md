@@ -7,7 +7,7 @@
 
 - Fluent in:
   
-[![My Skills](https://skillicons.dev/icons?i=ansible,arch,azure,bash,debian,docker,git,go,grafana,kubernetes,linux,md,mongodb,mysql,neovim,postgres,powershell,prometheus,raspberrypi,redhat,regex,terraform,vim,windows&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,arch,azure,bash,debian,docker,git,go,grafana,kubernetes,linux,md,mongodb,mysql,neovim,postgres,powershell,prometheus,raspberrypi,redhat,regex,terraform,vim,windows&perline=8)](https://skillicons.dev)
 
 <!-- Tech stack: -->
 - 📜 My certifications:
