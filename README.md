@@ -2,7 +2,6 @@
 
 ### I'm Petre (aka fluffeh) a DevOps engineer, homelabber and overall tech enthusiast
 
-- 🎓 I’m very slowly becoming a rustacean <img src="./src/rust.png" width="50" align="top" alt="Rust logo">
 
 
 - Fluent in:
@@ -17,6 +16,7 @@
     <a href="https://www.credly.com/badges/86bcc7fa-6fc4-41b4-9728-98eedc48fb5e/public_url"><img src="./src/professional-scrum-product-owner-i-pspo-i.png" alt="Professional Scrum Product Owner™ I (PSPOI)" width="150" hspace="15"></a>
 </p>
 
+- 🎓 I’m very slowly becoming a rustacean <img src="./src/rust.png" width="50" align="top" alt="Rust logo">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f1uff3h&layout=compact&theme=synthwave)
 
